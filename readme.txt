@@ -7,3 +7,5 @@ modify a line & a word.
 modify one.
 modify two.a bug is reset.
 learngit modi.
+a/learngit modify.
+new mofi.
