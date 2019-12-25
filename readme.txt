@@ -5,4 +5,4 @@ This is tree.
 This is two modify.
 modify a line & a word.
 modify one.
-modify two.
+modify two.a bug is reset.
